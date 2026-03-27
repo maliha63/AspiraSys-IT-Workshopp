@@ -79,8 +79,4 @@ Open `index.html` in your browser.
 
 MIT License
 
----
 
-## 👩‍💻 Author
-
-Maliha Bathool C
