@@ -1,1 +1,0 @@
-# AspiraSys-IT-Workshopp
