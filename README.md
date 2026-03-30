@@ -42,19 +42,6 @@ A responsive and interactive landing page for the AspiraSys Workshop, guiding st
 
 ---
 
-## 📁 Project Structure
-
-```bash
-├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── script.js
-└── assets/
-```
-
----
-
 ## 🚀 Quick Start
 
 ```bash
